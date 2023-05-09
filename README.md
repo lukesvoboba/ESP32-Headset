@@ -27,7 +27,7 @@ Done: <br>
 -USB-C Charging <br>
 -Single Neopixel for Battery indicator <br>
 <br>
-Maybe Features:
+Maybe Features: <br>
 -MQTT Support for Charging and Controll <br> 
 -Qi Charging <br>
 (say some things)<br>
