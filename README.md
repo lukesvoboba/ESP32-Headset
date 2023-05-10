@@ -14,7 +14,7 @@ TO-DO: <br>
 -Better PCB design (ugh...) <br>
 -RGB (OFC for Style) <br>
 <br>
-Done-ish:
+Done-ish: <br>
 -3D Design (but not good at Sound isolating.) <br>
 -V2 Gerber is 4 Layers But crappy in layout dont get too excited <br>
 <br>
